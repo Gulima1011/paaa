@@ -2,50 +2,42 @@
   "personagens": [
     { "id": 1, 
       "nome": "Anakin Skywalker", 
-      "imagens": "https://static.wikia.nocookie.net/disney/images/5/50/Profile_-_Anakin_Skywalker.png", 
-      "descricao": "o escolhido" 
+      "imagens": "https://static.wikia.nocookie.net/disney/images/5/50/Profile_-_Anakin_Skywalker.png"
     },
     { 
       "id": 2, 
       "nome": "Obi wan kenobi", 
-      "imagens": "https://pm1.aminoapps.com/6475/0beeb166b71da4c547cf7cf632b7ac5e378140b9_00.jpg", 
-      "descricao": "o escolhido" 
+      "imagens": "https://pm1.aminoapps.com/6475/0beeb166b71da4c547cf7cf632b7ac5e378140b9_00.jpg"
     },
     { 
       "id": 3, 
       "nome": "Papaltine", 
-      "imagens": "https://comicvine.gamespot.com/a/uploads/original/11127/111271653/7733549-d39ad769c10714e71e45713b81459c3a%5B1%5D.jpg", 
-      "descricao": "o escolhido" 
+      "imagens": "https://comicvine.gamespot.com/a/uploads/original/11127/111271653/7733549-d39ad769c10714e71e45713b81459c3a%5B1%5D.jpg"
     },
     { 
       "id": 4, 
       "nome": "Padmé Amidala", 
-      "imagens": "https://images.uncyc.org/pt/6/60/Padme_pastel_new1-1-.jpg",
-      "descricao": "o escolhido" 
+      "imagens": "https://images.uncyc.org/pt/6/60/Padme_pastel_new1-1-.jpg"
     },
     { 
       "id": 5, 
       "nome": "Ahsoka Tano", 
-      "imagens": "https://saberspro.com/cdn/shop/articles/Ahsoka.jpg", 
-      "descricao": "o escolhido" 
+      "imagens": "https://saberspro.com/cdn/shop/articles/Ahsoka.jpg"
     },
     { 
       "id": 6, 
       "nome": "Capitão Rex", 
-      "imagens": "https://pm1.aminoapps.com/7741/0361a76943716268061d27e6ce83d11041a86894r1-350-400v2_hq.jpg", 
-      "descricao": "o escolhido" 
+      "imagens": "https://pm1.aminoapps.com/7741/0361a76943716268061d27e6ce83d11041a86894r1-350-400v2_hq.jpg"
     },
     { 
       "id": 7, 
       "nome": "Conde Dookan", 
-      "imagens": "https://static.wikia.nocookie.net/ptstarwars/images/f/f1/Count_Dooku_headshot_gaze.jpg", 
-      "descricao": "o escolhido" 
+      "imagens": "https://static.wikia.nocookie.net/ptstarwars/images/f/f1/Count_Dooku_headshot_gaze.jpg"
     },
     { 
       "id": 8, 
       "nome": "Darth Maul", 
-      "imagens": "https://static.wikia.nocookie.net/starwars/images/d/dd/Star_Wars_Darth_Maul_1_textless.jpg", 
-      "descricao": "o escolhido" 
+      "imagens": "https://static.wikia.nocookie.net/starwars/images/d/dd/Star_Wars_Darth_Maul_1_textless.jpg"
     }
   ]
 }
