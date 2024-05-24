@@ -1,0 +1,33 @@
+{
+  "personagens": [
+    { "id": 1, 
+      "nome": "Anakin Skywalker", 
+      "imagens": "https://static.wikia.nocookie.net/ptstarwars/images/6/6f/Anakin_Skywalker_RotS.png", 
+      "descricao": "o escolhido" 
+    },
+    { 
+      "id": 2, 
+      "nome": "Obi wan kenobi", 
+      "imagens": "https://lumiere-a.akamaihd.net/v1/images/62bf0e03e8459d0001f4881b-image_71900d89.jpeg", 
+      "descricao": "o escolhido" 
+    },
+    { 
+      "id": 3, 
+      "nome": "Papaltine", 
+      "imagens": "https://comicvine.gamespot.com/a/uploads/original/11127/111271653/7733549-d39ad769c10714e71e45713b81459c3a%5B1%5D.jpg", 
+      "descricao": "o escolhido" 
+    },
+    { 
+      "id": 4, 
+      "nome": "Padmé Amidala", 
+      "imagens": "https://static.wikia.nocookie.net/ptstarwars/images/b/b2/Padmegreenscrshot.jpg",
+      "descricao": "o escolhido" 
+    },
+    { 
+      "id": 5, 
+      "nome": "Ahsoka Tano", 
+      "imagens": "https://saberspro.com/cdn/shop/articles/Ahsoka.jpg", 
+      "descricao": "o escolhido" 
+    },
+  ]
+}
