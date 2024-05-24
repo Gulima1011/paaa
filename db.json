@@ -2,13 +2,13 @@
   "personagens": [
     { "id": 1, 
       "nome": "Anakin Skywalker", 
-      "imagens": "https://static.wikia.nocookie.net/disney/images/5/50/Profile_-_Anakin_Skywalker.png/revision/latest?cb=20230907235703&path-prefix=pt-br", 
+      "imagens": "https://static.wikia.nocookie.net/disney/images/5/50/Profile_-_Anakin_Skywalker.png", 
       "descricao": "o escolhido" 
     },
     { 
       "id": 2, 
       "nome": "Obi wan kenobi", 
-      "imagens": "https://lumiere-a.akamaihd.net/v1/images/62bf0e03e8459d0001f4881b-image_71900d89.jpeg", 
+      "imagens": "https://pm1.aminoapps.com/6475/0beeb166b71da4c547cf7cf632b7ac5e378140b9_00.jpg", 
       "descricao": "o escolhido" 
     },
     { 
